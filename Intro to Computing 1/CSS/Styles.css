@@ -4,7 +4,7 @@ body {
         background: linear-gradient(199deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
         font-family: Arial, sans-serif;
         text-align: center;
-        height: 1000vh;
+        height: 120vh;
     }
 
 hr {
@@ -33,4 +33,5 @@ table {
         padding: 10px;
 
     }
+
 
